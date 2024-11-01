@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheTechAndSciGuy
-- 👀 I’m interested in programming And game dev
-- 🌱 I’m currently learning c#, unity, blazor(just started blazor)
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python and django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me-tapadipd@gmail.com, my number 7439874459
 
